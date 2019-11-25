@@ -1,0 +1,2 @@
+class FanzhongsController < ApplicationController
+end

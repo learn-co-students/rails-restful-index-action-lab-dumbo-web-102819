@@ -1,0 +1,2 @@
+class Fanzhong < ApplicationRecord
+end
